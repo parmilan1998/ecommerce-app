@@ -23,42 +23,42 @@ const CarouselSection = () => {
           <img
             src='/mobile3.jpg'
             alt='Mobile'
-            className='lg:h-[500px] md:h-96 w-full object-cover sm:h-36'
+            className='lg:h-[500px] md:h-96 sm:h-28 w-full object-cover bg-cover'
           />
         </div>
         <div>
           <img
             src='/mobile2.jpg'
             alt='Mobile'
-            className='lg:h-[500px] w-full object-cover sm:h-36'
+            className='lg:h-[500px] md:h-96 w-full object-cover sm:h-28 bg-cover'
           />
         </div>
         <div>
           <img
             src='/mobile1.jpg'
             alt='Mobile'
-            className='lg:h-[500px] w-full object-cover sm:h-36'
+            className='lg:h-[500px] md:h-96 w-full object-cover sm:h-28 bg-cover'
           />
         </div>
         <div>
           <img
             src='/mobile4.jpg'
             alt='Mobile'
-            className='lg:h-[500px] w-full object-cover sm:h-36'
+            className='lg:h-[500px] md:h-96 w-full object-cover sm:h-28 bg-cover'
           />
         </div>
         <div>
           <img
             src='/mobile5.jpg'
             alt='Mobile'
-            className='lg:h-[500px] w-full object-cover sm:h-36'
+            className='lg:h-[500px] md:h-96 w-full object-cover sm:h-28 bg-cover'
           />
         </div>
         <div>
           <img
             src='/mobile3.jpg'
             alt='Mobile'
-            className='lg:h-[500px] w-full object-cover sm:h-36'
+            className='lg:h-[500px] md:h-96 w-full object-cover sm:h-28 bg-cover'
           />
         </div>
       </Slider>
