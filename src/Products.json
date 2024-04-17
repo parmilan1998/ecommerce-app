@@ -1,0 +1,162 @@
+[
+    {
+        "id": "1",
+        "productName": "Samsung Galaxy A22 5G",
+        "brand": "Samsung",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeoynDZ13S3RZD6MXu1fXsNZmZyM4bzk3wLGNnc6ZVgA&s",
+        "price": "Rs.96,000",
+        "info": "The Galaxy A22 5G combines Octa-core processing power with up to 4GB/6GB/8GB of RAM for fast and efficient performance for the task at hand. Enjoy 64GB/128GB of internal storage or add even more space with up to 1TB microSD card."
+    },
+    {
+        "id": "2",
+        "productName": "Apple iPhone 13 Pro",
+        "brand": "Apple",
+        "image": "https://toyo.lk/wp-content/uploads/2022/01/iPhone-13-Pro-1.jpg",
+        "price": "Rs.139,900",
+        "info": "The iPhone 13 Pro features the powerful A15 Bionic chip, Pro camera system with new Ultra Wide, Wide, and Telephoto cameras, and a stunning Super Retina XDR display. Experience breakthrough performance and photography capabilities."
+    },
+    {
+        "id": "3",
+        "productName": "Google Pixel 6",
+        "brand": "Google",
+        "image": "https://xmobile.lk/wp-content/uploads/2023/10/Google-Pixel-6-Pro-12GB-RAM-128GB.png",
+        "price": "Rs.79,990",
+        "info": "The Pixel 6 features Google's custom-built Tensor chip, an advanced camera system with improved Night Sight and Portrait Mode, and a vibrant 6.4-inch display. Enjoy seamless performance and AI-driven features."
+    },
+    {
+        "id": "4",
+        "productName": "OnePlus 9 Pro",
+        "brand": "OnePlus",
+        "image": "https://doctormobile.lk/wp-content/uploads/2021/04/OnePlus-9-Pro-Forest-Green-best-price-in-Sri-Lanka.jpg",
+        "price": "Rs.74,999",
+        "info": "The OnePlus 9 Pro features a Snapdragon 888 processor, Hasselblad camera system for stunning photography, and a Fluid AMOLED display with a 120Hz refresh rate. Experience flagship performance and premium design."
+    },
+    {
+        "id": "5",
+        "productName": "Xiaomi Redmi Note 11 Pro",
+        "brand": "Xiaomi",
+        "image": "https://emobile.lk/image/cache/catalog/Xiaomi%20Redmi%20Note%2011%20Pro-500x500.jpg",
+        "price": "Rs.22,999",
+        "info": "The Redmi Note 11 Pro boasts a powerful MediaTek Dimensity processor, a high-resolution display with a 120Hz refresh rate, and a versatile quad-camera setup. Enjoy flagship-like features at an affordable price."
+    },
+    {
+        "id": "6",
+        "productName": "Samsung Galaxy Z Fold 3",
+        "brand": "Samsung",
+        "image": "https://www.purchase.com.pk/wp-content/uploads/2022/10/samsung-galaxy-z-fold-3.png",
+        "price": "Rs.149,999",
+        "info": "The Galaxy Z Fold 3 features a foldable design, a large 7.6-inch AMOLED display, and a powerful Snapdragon 888 processor. Experience multitasking like never before with the versatile Fold 3."
+    },
+    {
+        "id": "7",
+        "productName": "Apple iPad Air (2022)",
+        "brand": "Apple",
+        "image": "https://i5.walmartimages.com/seo/2022-Apple-10-9-inch-iPad-Air-Wi-Fi-Cellular-64GB-Purple-5th-Generation_7fba5319-907c-48eb-97a8-31d19c03a1f1.c756451ab1a1be0701e9594dcf68ae96.jpeg",
+        "price": "Rs.54,900",
+        "info": "The iPad Air (2022) features a stunning Liquid Retina display, the powerful A14 Bionic chip, and support for the Apple Pencil and Magic Keyboard. Enjoy productivity and creativity on the go."
+    },
+    {
+        "id": "8",
+        "productName": "Google Pixel 5a",
+        "brand": "Google",
+        "image": "https://www.queensmobiles.lk/wp-content/uploads/2023/03/Google-Pixel-5a.jpg",
+        "price": "Rs.36,999",
+        "info": "The Pixel 5a offers Google's signature camera experience, long-lasting battery life, and a durable metal unibody design. Stay connected and capture memories with confidence."
+    },
+    {
+        "id": "9",
+        "productName": "OnePlus Nord 2",
+        "brand": "OnePlus",
+        "image": "https://i0.wp.com/doctormobile.lk/wp-content/uploads/2021/09/OnePlus-NORD-2-5G-Gray-best-price-in-Sri-Lanka.jpg?fit=600%2C600&ssl=1",
+        "price": "Rs.29,999",
+        "info": "The OnePlus Nord 2 features a MediaTek Dimensity processor, a smooth 90Hz AMOLED display, and a versatile triple camera system. Enjoy flagship-like performance at an affordable price."
+    },
+    {
+        "id": "10",
+        "productName": "Xiaomi Mi 11 Ultra",
+        "brand": "Xiaomi",
+        "image": "https://celltronics.lk/wp-content/uploads/2021/12/Xiaomi-Mi-10-8GB-RAM-256GB-01.jpg",
+        "price": "Rs.69,999",
+        "info": "The Mi 11 Ultra boasts a Snapdragon 888 processor, a stunning AMOLED display with a 120Hz refresh rate, and a powerful triple camera system. Experience flagship performance and exceptional photography."
+    },
+    {
+        "id": "11",
+        "productName": "Samsung Galaxy S21 Ultra",
+        "brand": "Samsung",
+        "image": "https://i.ebayimg.com/images/g/tRwAAOSwCBtjYswx/s-l1600.jpg",
+        "price": "Rs.1,05,999",
+        "info": "The Galaxy S21 Ultra features a stunning 6.8-inch Dynamic AMOLED display, a powerful Exynos 2100 processor, and a versatile quad-camera system with up to 100x Space Zoom. Experience the ultimate in smartphone technology."
+    },
+    {
+        "id": "12",
+        "productName": "Apple MacBook Pro (2022)",
+        "brand": "Apple",
+        "image": "https://appleasia.lk/wp-content/uploads/2023/04/MacBook-Pro-14inch-Space-Grey-2021-Apple-Asia-1.webp",
+        "price": "Rs.1,99,900",
+        "info": "The MacBook Pro (2022) features Apple's powerful M2 chip, a stunning Liquid Retina XDR display, and a redesigned Magic Keyboard with Touch ID. Experience unmatched performance and productivity."
+    },
+    {
+        "id": "13",
+        "productName": "Dell XPS 15",
+        "brand": "Dell",
+        "image": "https://1pc.co.il/images/thumbs/0088401_-dell-xps-15-9530-touch-xps15-9842_510.jpeg",
+        "price": "Rs.1,34,990",
+        "info": "The Dell XPS 15 offers a stunning InfinityEdge display, powerful Intel processors, and premium craftsmanship in a slim and lightweight design. Enjoy immersive visuals and superior performance."
+    },
+    {
+        "id": "14",
+        "productName": "Sony PlayStation 5",
+        "brand": "Sony",
+        "image": "https://iriver.lk/storage/products/sony/ps5/ps5-console-1-540x600.jpg",
+        "price": "Rs.49,990",
+        "info": "The PlayStation 5 delivers lightning-fast loading times, immersive 3D audio, and stunning 4K graphics for an unparalleled gaming experience. Dive into the next generation of gaming with the PS5."
+    },
+    {
+        "id": "15",
+        "productName": "Canon EOS R5",
+        "brand": "Canon",
+        "image": "https://whcamera.com/media/catalog/product/cache/ea5967ba851b98c340eb1e6e4b82461d/4/1/4147c013_eos-r5-rf24-105mm-_3.jpg",
+        "price": "Rs.3,39,995",
+        "info": "The Canon EOS R5 features a 45MP full-frame sensor, 8K video recording, and advanced Dual Pixel CMOS AF II for stunning image quality and performance. Capture every moment with precision and detail."
+    },
+    {
+        "id": "16",
+        "productName": "Microsoft Surface Laptop Studio",
+        "brand": "Microsoft",
+        "image": "https://promart.vteximg.com.br/arquivos/ids/7220773-1000-1000/image-0.jpg?v=638234767719670000",
+        "price": "Rs.1,52,999",
+        "info": "The Surface Laptop Studio features a unique 2-in-1 design, a stunning PixelSense Flow display, and powerful Intel processors for versatile performance and productivity. Transform your workflow with the Surface Studio."
+    },
+    {
+        "id": "17",
+        "productName": "LG OLED C1 Series",
+        "brand": "LG",
+        "image": "https://www.lg.com/content/dam/channel/wcms/uk/images/tvs/OLED55C14LB_AEK_EEUK_UK_C/OLED55C14LB_AEK_EEUK_UK_C-450x450.jpg",
+        "price": "Rs.1,29,999",
+        "info": "The LG OLED C1 Series offers stunning OLED picture quality, Dolby Vision IQ, and HDMI 2.1 compatibility for an immersive home entertainment experience. Elevate your viewing experience with the LG C1."
+    },
+    {
+        "id": "18",
+        "productName": "NVIDIA GeForce RTX 3080",
+        "brand": "NVIDIA",
+        "image": "https://m.media-amazon.com/images/I/71UStULnUyS.jpg",
+        "price": "Rs.78,990",
+        "info": "The NVIDIA GeForce RTX 3080 delivers incredible gaming performance, ray tracing capabilities, and AI-powered features for lifelike graphics and smooth gameplay. Dominate the competition with the RTX 3080."
+    },
+    {
+        "id": "19",
+        "productName": "Bose QuietComfort 45",
+        "brand": "Bose",
+        "image": "https://futureworld.com.lk/wp-content/uploads/2023/05/600x600-QUIETCOMFORT-45-1-scaled.jpg",
+        "price": "Rs.29,363",
+        "info": "The Bose QuietComfort 45 offers industry-leading noise cancellation, superior sound quality, and up to 24 hours of battery life. Immerse yourself in your music and enjoy peace and quiet wherever you go."
+    },
+    {
+        "id": "20",
+        "productName": "Fitbit Charge 5",
+        "brand": "Fitbit",
+        "image": "https://lifemobile.lk/wp-content/uploads/2021/11/Fitbit-Charge-5.jpg",
+        "price": "Rs.14,999",
+        "info": "The Fitbit Charge 5 offers advanced health and fitness tracking features, a built-in GPS, and up to 7 days of battery life. Stay motivated and achieve your fitness goals with the Charge 5."
+    }
+]

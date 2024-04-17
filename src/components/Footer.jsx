@@ -9,7 +9,7 @@ const Footer = () => {
             <div className='flex justify-center text-teal-600 sm:justify-start'>
               <div>
                 <h1 className='text-3xl font-semibold'>
-                  <span className='text-myrtleGreen'>Jeeva</span>
+                  <span className='text-myrtleGreen'>Alexa</span>
                   <span className='text-processCyan'>Mobile</span>
                 </h1>
               </div>
