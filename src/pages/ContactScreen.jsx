@@ -2,7 +2,9 @@ import React from 'react'
 
 const ContactScreen = () => {
   return (
-    <div>ContactScreen</div>
+    <div className='font-poppins mx-auto max-w-screen-xl px-4 lg:pt-16 py-8 sm:px-10 lg:px-8'>
+      ContactScreen
+    </div>
   )
 }
 
